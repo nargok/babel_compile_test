@@ -1,3 +1,4 @@
 "use strict";
 
 var foo = "bar";
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9pbmRleC5qcyJdLCJuYW1lcyI6WyJmb28iXSwibWFwcGluZ3MiOiI7O0FBQUEsSUFBSUEsR0FBRyxHQUFHLEtBQVYiLCJzb3VyY2VzQ29udGVudCI6WyJsZXQgZm9vID0gXCJiYXJcIjtcblxuIl19
